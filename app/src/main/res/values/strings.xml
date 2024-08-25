@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetPhysics</string>
+    <string name="formulas_activity_label">Formulas Activity</string>
+    <string name="calculation_activity_label">Calculation Activity</string>
+</resources>
